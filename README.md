@@ -11,7 +11,8 @@ This project demonstrates a stylish and interactive product configurator for a b
 
 ## 📸 Preview
 
-![Wheel Preview](https://assets.codepen.io/383755/wheel1.png)
+<img width="1018" height="695" alt="image" src="https://github.com/user-attachments/assets/5bb691a5-e2b8-4f1b-8fb8-be8bcf784469" />
+
 
 ## 🛠️ Built With
 
@@ -27,5 +28,5 @@ This project demonstrates a stylish and interactive product configurator for a b
 3. Toggle the "Configure the Bike" switch.
 4. Select a wheel and click "Buy Now" to watch the animation!
 
-## 📁 File Structure
+
 
